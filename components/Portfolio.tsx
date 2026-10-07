@@ -63,9 +63,10 @@ const projects: Project[] = [
   description:
     'Engaging short-form content focused on strong pacing, storytelling, sound design and clean visual editing.',
   thumbnail:
-    'https://res.cloudinary.com/c0hfzzgd/image/upload/v1791358473/Screenshot_2026-10-07_130317.png  ',
+    'https://res.cloudinary.com/c0hfzzgd/image/upload/v1791358473/Screenshot_2026-10-07_130317.png',
   videoUrl:
-    'https://res.cloudinary.com/c0hfzzgd/video/upload/v1791358374/sample_1.mp4  ',
+    'https://res.cloudinary.com/c0hfzzgd/video/upload/v1791358374/sample_1.mp4
+  ',
 },
   {
     id: 4,

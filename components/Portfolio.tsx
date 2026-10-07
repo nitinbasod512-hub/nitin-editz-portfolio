@@ -57,19 +57,16 @@ const projects: Project[] = [
       'https://res.cloudinary.com/c0hfzzgd/video/upload/v1786825888/Real_Estate_Video.mp4',
   },
   {
-    id: 3,
-    title: 'Viral Reel',
-    category: 'Viral / Trend',
-    description:
-      'High-performing short-form content showcasing fast-paced editing, storytelling, sound design and visual effects.',
-    thumbnail:
-      'https://res.cloudinary.com/c0hfzzgd/video/upload/so_2,w_600,h_1067,c_fill/v1786825880/Viral_Reel.jpg',
-    videoUrl:
-      'https://res.cloudinary.com/c0hfzzgd/video/upload/v1786825880/Viral_Reel.mp4',
-    instagramUrl:
-      'https://www.instagram.com/reel/DbLBEPRJW8h/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==',
-    stats: { views: '750K+ Views', likes: '100K+ Likes' },
-  },
+  id: 3,
+  title: 'Creator Reel',
+  category: 'Short-form Content',
+  description:
+    'Engaging short-form content focused on strong pacing, storytelling, sound design and clean visual editing.',
+  thumbnail:
+    'https://res.cloudinary.com/c0hfzzgd/image/upload/v1791358473/Screenshot_2026-10-07_130317.png  ',
+  videoUrl:
+    'https://res.cloudinary.com/c0hfzzgd/video/upload/v1791358374/sample_1.mp4  ',
+},
   {
     id: 4,
     title: 'Head Talking Video',

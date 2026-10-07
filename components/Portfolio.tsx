@@ -67,8 +67,7 @@ const projects: Project[] = [
   videoUrl:
     'https://res.cloudinary.com/c0hfzzgd/video/upload/v1791358374/sample_1.mp4',
 },
-},
-  {
+}
     id: 4,
     title: 'Head Talking Video',
     category: 'Short-form Content',

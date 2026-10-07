@@ -64,13 +64,13 @@ const projects: Project[] = [
     'Engaging short-form content focused on strong pacing, storytelling, sound design and clean visual editing.',
   thumbnail:
     'https://res.cloudinary.com/c0hfzzgd/image/upload/v1791358473/Screenshot_2026-10-07_130317.png',
-  videoUrl:
+    videoUrl:
     'https://res.cloudinary.com/c0hfzzgd/video/upload/v1791358374/sample_1.mp4',
 },
-}
-    id: 4,
-    title: 'Head Talking Video',
-    category: 'Short-form Content',
+{
+  id: 4,
+  title: 'Head Talking Video',
+  category: 'Short-form Content',
     description:
       'Engaging talking-head content with clean cuts, captions, pacing, sound design and supporting visuals.',
     thumbnail:
